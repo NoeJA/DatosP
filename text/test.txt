@@ -1,0 +1,7 @@
+A bot is an automated or semi-automated program that can mimic a human user. Some bots are helpful, such as weather updates or sports results. Others are malicious and can be used to spread disinformation or attempt to influence elections.
+
+The researchers compared patterns of orchestrated (non-organic) tweet behaviour across two national elections: the 2016 Presidential Election in the United States, and the 2017 German federal election. “There have been claims of bot involvement in both of these elections, so we collected data to see what this involvement looked like. Were there bots involved in the German election, as well? (spoiler: they were). Yet, to what ends?” Dr Boichak said.
+
+“Previous research has mostly looked at the scale of retweet events – the so-called ‘megaphone effect’ – we know that bots can increase the prominence of a candidate’s message by retweeting it many times,” Dr Boichak said.
+
+“But can social bots make a message go viral? Can they quickly spread the message to new audiences? In most cases, the answer is ‘no’,” she said.
